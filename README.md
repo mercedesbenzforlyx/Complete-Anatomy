@@ -223,4 +223,4 @@ Complete Anatomy is available as a full free version with all features and updat
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-09-30 08:04:52 UTC
+**Last updated:** 2026-09-30 15:40:44 UTC
